@@ -69,7 +69,7 @@ const Website = () => {
         </div>
         <div id="about-section" className="about-parent">
           <div className="merge" onClick={handleMergeClick}>
-            Merge
+           About
           </div>
           <div className="autistic-intelligence-is">
             Autistic Intelligence is an experimental art project combining the
