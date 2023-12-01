@@ -1,0 +1,39 @@
+/* global.css */
+
+@font-face {
+  font-family: 'HACKED Regular';
+  font-style: normal;
+  font-weight: normal;
+  /* Update the source to point to the 'fonts' folder */
+  src: local('HACKED Regular'), url('fonts/HACKED_Title.woff') format('woff');
+}
+
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* font sizes */
+  --font-size-11xl: 30px;
+  --font-size-16xl: 35px;
+  --font-size-xl: 20px;
+  --font-size-31xl: 50px;
+
+  /* Colors */
+  --color-white: #fff;
+
+  /* Gaps */
+  --gap-2xl: 21px;
+  --gap-3xs: 10px;
+  --gap-4xl: 23px;
+
+  /* Paddings */
+  --padding-xs: 12px;
+  --padding-4xl: 23px;
+  --padding-4xs: 9px;
+  --padding-11xl: 30px;
+  --padding-8xs: 5px;
+  --padding-6xs: 7px;
+  --padding-6xl: 25px;
+}

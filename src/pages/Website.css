@@ -1,0 +1,346 @@
+
+.all-copyrights-reserved {
+  font-family: 'HACKED Regular';
+  position: absolute;
+  bottom: 16.63px;
+  left: calc(50% - 600px);
+  letter-spacing: 0.06em;
+  display: inline-block;
+  width: 1200px;
+  height: 23px;
+}
+
+.vector-icon {
+  font-family: 'HACKED Regular';
+  position: relative;
+  width: 774.48px;
+  height: 262.15px;
+}
+
+.home {
+  font-family: 'HACKED Regular';
+  position: relative;
+  letter-spacing: 0.06em;
+}
+
+.home-wrapper {
+  font-family: 'HACKED Regular';
+  border: 2px solid var(--color-white);
+  overflow: hidden;
+  flex-direction: row;
+  padding: var(--padding-6xs) var(--padding-6xl) var(--padding-8xs);
+  text-decoration: none;
+}
+
+.frame-container,
+.home-wrapper,
+.vector-parent {
+  font-family: 'HACKED Regular';
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-decoration: none;
+}
+
+.frame-container {
+  font-family: 'HACKED Regular';
+  width: 770px;
+  flex-direction: row;
+  padding: 0 0 0 318px;
+  box-sizing: border-box;
+  gap: 40px;
+}
+
+.vector-parent {
+  font-family: 'HACKED Regular';
+  flex-direction: column;
+  gap: var(--gap-4xl);
+}
+
+.connect-wallet {
+  font-family: 'HACKED Regular';
+  position: relative;
+  letter-spacing: 0.06em;
+  display: inline-block;
+  width: 280.67px;
+  height: 27.76px;
+  flex-shrink: 0;
+}
+
+.connect-wallet-wrapper {
+  font-family: 'HACKED Regular';
+  border: 2px solid var(--color-white);
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-xs) var(--padding-md) 18px var(--padding-md); /* Adjust the right and left padding values */
+  font-size: var(--font-size-16xl);
+}
+
+
+.frame-group {
+  font-family: 'HACKED Regular';
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 110px;
+}
+
+.autistic-intelligence-is {
+  font-family: 'HACKED Regular';
+  position: relative;
+  font-size: var(--font-size-xl);
+  letter-spacing: 0.06em;
+  text-align: center;
+  display: inline-block;
+  width: 765px;
+  height: 82.78px;
+  flex-shrink: 0;
+}
+
+.about-parent {
+  font-family: 'HACKED Regular';
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: var(--gap-4xl);
+  font-size: var(--font-size-31xl);
+}
+
+.merge {
+  font-family: 'HACKED Regular';
+  position: relative;
+  letter-spacing: 0.06em;
+  display: inline-block;
+  width: 163.12px;
+  height: 43.96px;
+  flex-shrink: 0;
+}
+
+.lorem-ipsum-lorem-ipsumlorem-i-wrapper {
+  font-family: 'HACKED Regular';
+  border: 1px solid var(--color-white);
+  box-sizing: border-box;
+  width: 550px;
+  overflow: hidden;
+  flex-shrink: 0;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: 17px 0;
+}
+
+.merge1 {
+  font-family: 'HACKED Regular';
+  position: relative;
+  letter-spacing: 0.06em;
+  display: inline-block;
+  width: 148.81px;
+  flex-shrink: 0;
+}
+
+.merge-wrapper {
+  font-family: 'HACKED Regular';
+  border: 2px solid var(--color-white);
+  overflow: hidden;
+  flex-direction: row;
+  justify-content: center;
+  padding: 13px 21px var(--padding-8xs) 31px;
+  font-size: var(--font-size-16xl);
+}
+
+.frame-parent1,
+.merge-parent,
+.merge-wrapper {
+  font-family: 'HACKED Regular';
+  display: flex;
+  align-items: center;
+}
+
+.frame-parent1 {
+  font-family: 'HACKED Regular';
+  flex-direction: row;
+  justify-content: flex-start;
+  gap: 16px;
+  font-size: var(--font-size-xl);
+}
+
+.merge-parent {
+  font-family: 'HACKED Regular';
+  flex-direction: column;
+  justify-content: center;
+  gap: var(--gap-4xl);
+  text-align: center;
+  font-size: var(--font-size-31xl);
+}
+
+.frame-child {
+  font-family: 'HACKED Regular';
+  position: relative;
+  border: 1px solid var(--color-white);
+  box-sizing: border-box;
+  width: 372px;
+  height: 372px;
+  z-index: 0;
+}
+
+.create-art {
+  font-family: 'HACKED Regular';
+  position: relative;
+  letter-spacing: 0.06em;
+  display: inline-block;
+  width: 197.66px;
+  height: 27.76px;
+  flex-shrink: 0;
+}
+
+.create-art-wrapper {
+  font-family: 'HACKED Regular';
+  margin: 0 !important;
+  position: absolute;
+  top: 161.62px;
+  left: 60.67px;
+  border: 2px solid var(--color-white);
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-xs) var(--padding-4xl) var(--padding-4xs)
+    var(--padding-11xl);
+  z-index: 1;
+}
+
+.frame-parent2,
+.rectangle-parent {
+  font-family: 'HACKED Regular';
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+
+.rectangle-parent {
+  font-family: 'HACKED Regular';
+  position: relative;
+  gap: var(--gap-3xs);
+}
+
+.frame-parent2 {
+  font-family: 'HACKED Regular';
+  gap: var(--gap-2xl);
+}
+
+.frame-div,
+.frame-parent {
+  font-family: 'HACKED Regular';
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.frame-div {
+  font-family: 'HACKED Regular';
+  justify-content: center;
+  gap: 22px;
+  font-size: var(--font-size-11xl);
+}
+
+.frame-parent {
+  font-family: 'HACKED Regular';
+  position: absolute;
+  top: calc(50% - 1040px);
+  left: calc(50% - 387.24px);
+  justify-content: flex-start;
+  gap: 218px;
+  text-align: left;
+}
+
+.website {
+  font-family: 'HACKED Regular';
+  position: relative;
+  background-color: #000;
+  width: 100%;
+  height: 2212px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-xl);
+  color: var(--color-white);
+}
+.home-button {
+  cursor: pointer;
+  background-color: #000; /* Default black background */
+  color: #fff; /* Default white text */
+  border: 2px solid #fff; /* White border */
+  padding: 10px 20px;
+  margin: 5px;
+  border-radius: 5px;
+  text-decoration: none;
+  transition: background-color 0.3s, color 0.3s, border-color 0.3s; /* Smooth transition effect */
+}
+
+.home-button:hover,
+.home-button:active {
+  background-color: #fff; /* Change background to white on hover or click */
+  color: #000; /* Change text to black on hover or click */
+  border-color: #000; /* Change border color to black on hover or click */
+}
+.connect-wallet-wrapper {
+  cursor: pointer;
+  background-color: #000; /* Default black background */
+  color: #fff; /* Default white text */
+  border: 2px solid #fff; /* White border */
+  padding: 10px 20px;
+  margin: 5px;
+  border-radius: 5px;
+  text-decoration: none; /* Remove underline */
+  transition: background-color 0.3s, color 0.3s, border-color 0.3s; /* Smooth transition effect */
+}
+
+.connect-wallet-wrapper:hover,
+.connect-wallet-wrapper:active {
+  background-color: #fff; /* Change background to white on hover or click */
+  color: #000; /* Change text to black on hover or click */
+  border-color: #000; /* Change border color to black on hover or click */
+}
+
+
+.home-wrapper {
+  cursor: pointer;
+  transition: background 0.3s, color 0.3s;
+  text-decoration: none;
+}
+
+.home-wrapper:hover {
+  background: white;
+  color: black;
+  text-decoration: none;
+}
+.home-wrapper a {
+  text-decoration: none !important; /* Remove underline */
+  color: black !important; /* Set the desired color */
+}
+
+.home-wrapper a:hover {
+  color: black !important; /* Change color on hover if needed */
+}
+.home-wrapper[href="https://opensea.io/collection/ai-autistic-intelligence"] {
+  text-decoration: none !important; /* Remove underline */
+  color: white !important; /* Set the desired color */
+}
+
+.home-wrapper[href="https://opensea.io/collection/ai-autistic-intelligence"]:hover {
+  color: black !important; /* Change color on hover if needed */
+}
+.lorem-ipsum-lorem-ipsumlorem-i-wrapper .home-input {
+  /* Add any additional styling for the input field here */
+  width: 100%; /* Set the width as needed */
+  padding: 10px; /* Add padding as needed */
+  border: 0px solid; /* Add border style as needed */
+}
+
